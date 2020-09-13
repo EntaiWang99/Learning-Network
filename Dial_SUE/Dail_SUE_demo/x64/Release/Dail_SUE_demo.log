@@ -1,0 +1,15 @@
+﻿  Dail_SUE_demo.cpp
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(518,17): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(672,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(679,1): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(689,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(697,1): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(715,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(716,1): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(722,1): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\Dail_SUE_demo\Dail_SUE_demo.cpp(768,1): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 918 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dail_SUE_demo.vcxproj -> C:\Users\Entai Wang\Desktop\2020-9交通科研lab推文\SourceCode\Dial_SUE\x64\Release\Dail_SUE_demo.exe
